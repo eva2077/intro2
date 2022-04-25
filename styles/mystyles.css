@@ -1,0 +1,57 @@
+
+body{
+    background-color: antiquewhite;
+    
+}
+.indent{
+    text-indent: 25px;
+}
+
+
+.font-color{
+    color:rgb(199, 186, 101);
+}
+
+
+.align-middle {
+    text-align: center;
+    font-weight: bold;
+    text-decoration-thickness: 5px;}
+ .text-colors{
+    color:black;
+}
+
+.font-style {
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+}
+.about-fontstyle {
+    font-weight: bold;
+    color:whitesmoke;
+    
+}
+.under-line {
+    text-decoration: underline;
+    text-decoration-thickness: 5px; 
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.mangos {
+    font-weight: bold;
+    color: rgb(231, 164, 40);
+    text-align: center;
+    font-size: x-large;
+}
+.contactme-style{
+    color: goldenrod;
+}
+.centertext{
+    text-align: center;
+}

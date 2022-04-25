@@ -1,0 +1,44 @@
+.tabnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(179, 172, 172);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+h1{
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body{
+  background-color:antiquewhite;
+  
+}
+.footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(175, 117, 10);
+  color: white;
+}
+.text {
+  font-weight: bold;
+}
+.text-color{
+  color: goldenrod;
+  text-align: center;
+  text-decoration: underline;
+}
